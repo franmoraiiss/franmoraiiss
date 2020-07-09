@@ -6,5 +6,6 @@
 ## Olá 👋
 
 Meu nome é Francisco Morais, sou estudante de Sistemas de Informação e apaixonado por desenvolvimento.
+Faço parte do movimento empresa júnior e atuo na byron.solutions como Gerente de Vice-Presidência.
 
 ---
