@@ -10,6 +10,6 @@
 - 📫 How to reach me: **fgmorais18@gmail.com**
 - ⚡ Fun fact: Singer and instrumentalist :P
 
-<p class="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=franmoraiiss&show_icons=true" alt="franmoraiiss"/> 
 </p>
