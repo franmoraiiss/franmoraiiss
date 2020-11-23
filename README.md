@@ -1,11 +1,13 @@
-# Francisco Morais :man_technologist:
+<h1 align="center">Hey, welcome! I'm Francisco Morais 👋</h1>
+<h3 align="center">Learning to fly like a rocket!</h3>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/franmoraiiss)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/franmorais/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&labelColor=6633cc&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/franmorais/)
+[![Twitter Badge](https://img.shields.io/badge/-@franmoraiiss-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://instagram.com/franmoraiiss)](https://instagram.com/franmoraiiss) 
 
-## Olá, bem-vindo ao meu perfil! 👋
+<p>Passionate about technology and always willing to learn new things!</p>
 
-Meu nome é Francisco Morais, sou estudante de Sistemas de Informação e apaixonado por desenvolvimento.
-Faço parte do movimento empresa júnior e atuo na byron.solutions como Gerente de Vice-Presidência e Desenvolvedor.
+- 🔭 I’m currently working at [byron.solutions](https://byronsolutions.com/)
+- 📫 How to reach me: **fgmorais18@gmail.com**
+- ⚡ Fun fact: Singer and instrumentalist :P
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=franmoraiiss&show_icons=true" alt="franmoraiiss"/> 
