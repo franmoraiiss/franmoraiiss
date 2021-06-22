@@ -6,7 +6,7 @@
 
 <p>Passionate about technology and always willing to learn new things!</p>
 
-- 🔭 I’m currently working at [byron.solutions](https://byronsolutions.com/)
+- 🔭 I’m currently working at [PD Soluções](https://www.facebook.com/pdsolucoes/)
 - 📫 How to reach me: **fgmorais18@gmail.com**
 - ⚡ Fun fact: Singer and instrumentalist :P
 
