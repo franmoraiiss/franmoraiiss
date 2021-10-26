@@ -11,5 +11,5 @@
 - ⚡ Fun fact: Singer and instrumentalist :P
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franmoraiiss&show_icons=true" alt="franmoraiiss"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=franmoraiiss&show_icons=true&theme=radical" alt="franmoraiiss"/> 
 </p>
