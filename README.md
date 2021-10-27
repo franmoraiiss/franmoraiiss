@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="dev.png" alt="Man coding" width="400"/>
+  <img src="dev.png" alt="Man coding" width="420"/>
   <h3 align="center">Learning to fly like a rocket!</h3>
 </div>
 
@@ -22,3 +22,5 @@
      <img width="450" src="https://github-readme-stats.vercel.app/api?username=franmoraiiss&hide_border=true&show_icons=true&theme=nightowl&count_private=true"/>
      <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=franmoraiiss&hide_border=true&theme=nightowl&show_icons=true"/>
 </div>
+
+<div align="right"><a href="https://storyset.com/creativity">Creativity illustrations by Storyset</a></div>
