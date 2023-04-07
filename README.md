@@ -13,8 +13,7 @@
 
 <p>Passionate about technology and always willing to learn new things!</p>
 
-- 🖥️ I’m currently working as a Software Developer at **[PD Soluções](https://www.facebook.com/pdsolucoes/)**
-- 📈️ I also work for a junior company as a Technology Manager and Project Manager at **[byron.solutions](https://byronsolutions.com)**
+- 🖥️ I’m currently working as a Software Developer at **[FIT - Institute of Technology](https://www.fit-tecnologia.org.br/home)**
 - 📫 How to reach me: **fgmorais18@gmail.com**
 - ⚡ Fun fact: Singer and instrumentalist :P
 
