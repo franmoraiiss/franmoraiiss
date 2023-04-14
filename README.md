@@ -9,7 +9,6 @@
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&labelColor=6633cc&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/franmorais/)
-[![Instagram Badge](https://img.shields.io/badge/-@franmoraiiss-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://instagram.com/franmoraiiss)](https://instagram.com/franmoraiiss)
 
 <p>Passionate about technology and always willing to learn new things!</p>
 
