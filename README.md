@@ -17,7 +17,6 @@
 - ⚡ Fun fact: Singer and instrumentalist :P
 
  <div align="center" style="margin-top: 30px">
-     <img width="450" src="https://github-readme-stats.vercel.app/api?username=franmoraiiss&hide_border=true&show_icons=true&theme=nightowl&count_private=true"/>
      <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=franmoraiiss&hide_border=true&theme=nightowl&show_icons=true"/>
 </div>
 
