@@ -12,7 +12,7 @@
 
 <p>Passionate about technology and always willing to learn new things!</p>
 
-- 🖥️ I’m currently working as a Software Developer at **[FIT - Flextronics Institute of Technology](https://www.fit-tecnologia.org.br/home)**
+- 🖥️ I’m currently working as a Software Developer at **[Víssimo Group](https://www.vissimo.com.br/)**
 - 📫 How to reach me: **fgmorais18@gmail.com**
 - ⚡ Fun fact: Singer and instrumentalist :P
 
